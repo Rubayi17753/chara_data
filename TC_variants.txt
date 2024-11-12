@@ -1,0 +1,84 @@
+# DL: 附件1. 规范字与繁体字、异体字对照表 of 通用規範漢字表 (2013), taken as the de facto PRC Traditional Character standard.
+# HK and TW standards from the short conversions list in OpenCC.
+# To do: 1) Incorporate data from Z_Variants; 2) Check HK and TW characters in this table against official character lists.
+DL	DL_var	HK	HK_var	TW	other	s
+僞		偽		偽		伪
+兑		兑		兌		
+叁		叁		叄		
+只	祇秖	只	衹	只		
+啓	唘啟	啓	啟	啟		启
+吃	喫	吃		吃		
+囱		囱		囪		
+妝	粧	妝	粧	妝		妆
+媪		媪		媼		
+嬀		媯		媯		妫
+悦		悦		悅		
+愠		愠		慍		
+户		户		戶		
+捝		捝		挩		
+揾		揾		搵		
+抬		抬		抬	擡	
+敚		敚		敓		
+叙	敍敘	敍	敘	敘		
+拐	柺	枴		柺		
+棁		棁		梲		
+棱	稜	稜	棱	稜		
+榅		榅		榲		
+檯		枱		檯		台
+氲		氲		氳		
+涚		涚		涗		
+温		温		溫		
+濕	溼	濕		溼		湿
+潙		溈		溈		沩
+潨		潀		潀		
+煴		煴		熅		
+爲		為		為		为
+痴	癡	痴		痴		
+皂	皁	皂		皂		
+秘	祕	秘		秘		
+税		税		稅		
+竈!		灶		灶		灶
+粽	糉	粽	糉糭	粽		
+緼		緼		縕		缊
+纔!		才		才		才
+唇	脣	唇		唇		
+脱		脱		脫		
+腽		腽		膃		
+卧		卧		臥		
+臺		台		臺		台
+烟	菸煙	煙		菸		
+蒀		蒀		蒕		
+葱	蔥	葱		蔥		
+蔿		蒍		蒍		𫇭
+藴		藴		蘊		蕴
+蜕		蜕		蛻		
+衆	眾	眾		眾		众
+衛		衞		衛		卫
+核	覈	核		核		
+説		説		說		说
+踴		踴		踴		踊
+輼		輼		轀		辒
+醖		醖		醞		酝
+鉢	盋缽	缽		缽		钵
+鈎	鉤	鈎		鉤		钩
+鋭		鋭		銳		锐
+針	鍼	針		針		针
+閲		閲		閱		阅
+鰛		鰛		鰮		鳁
+嫻	嫺	嫺		嫻		娴
+峰	峯	峯		峰		
+幺		幺		么		
+檐	簷	檐		簷		
+污	汙汚	污		汙		
+泄	洩	泄		洩		
+床	牀	牀		床		
+痹	痺	痹		痺		
+着		着		著		
+睾		睾		睪		
+繮	韁	繮		韁		缰
+群	羣	羣		群		
+參	㕘葠蓡	蔘		參		参
+裏	裡	裏		裡		里
+鮎		鮎		鯰		鲇
+麵	麪	麪		麵		面
+腭	齶	齶		顎		
