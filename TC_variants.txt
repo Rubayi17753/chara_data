@@ -1,3 +1,4 @@
+# A database of Traditional Chinese characters (繁體字) with different Unicode codepoints in different standards.
 # DL: 附件1. 规范字与繁体字、异体字对照表 of 通用規範漢字表 (2013), taken as the de facto PRC Traditional Character standard.
 # HK and TW standards from the short conversions list in OpenCC.
 # To do: 1) Incorporate data from Z_Variants; 2) Check HK and TW characters in this table against official character lists.
